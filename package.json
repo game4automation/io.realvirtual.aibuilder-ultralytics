@@ -1,0 +1,14 @@
+{
+  "name": "io.realvirtual.aibuilder-ultralytics",
+  "version": "1.0.0",
+  "displayName": "realvirtual AI Builder Ultralytics",
+  "description": "Toolkit for Industrial AI Training and Inference",
+  "documentationUrl": "https://doc.realvirtual.io/",
+  "changelogUrl": "https://docs.realvirtual.com/starter/changelog.html",
+  "licensesUrl": "https://docs.realvirtual.com/starter/license.html",
+  "license": "???",
+  "author": {
+    "name": "realvirtual GmbH",
+    "url": "https://doc.realvirtual.io/extensions/realvirtual.io-aibuilder"
+  }
+}
