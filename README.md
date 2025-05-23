@@ -6,7 +6,7 @@ This repository demonstrates how to integrate [Ultralytics YOLO](https://github.
 
 ## 📦 What's Included
 
-- Example 1: **Lego Brick Detection** (multi-class bounding boxes and tracking of LegoBricks)
+- Example 1: **Toy Brick Detection** (multi-class bounding boxes and tracking of Toy Bricks)
 - Example 2: **Card Sorting** (multi-class oriented bounding boxes card classification)
 - 🛠 Data pipeline scripts to load labeled Unity exports
 - 📁 Predefined dataset format compatible with Ultralytics
