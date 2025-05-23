@@ -23,7 +23,7 @@ realvirtual.io AI Builder is a Unity-based toolkit for:
 - Testing AI models inside a real-time Digital Twin
 - Exporting data for training frameworks like Ultralytics
 
-🔗 Documentation: [https://doc.realvirtual.io/extensions/realvirtual.io-aibuilder}(https://doc.realvirtual.io/extensions/realvirtual.io-aibuilder)
+🔗 Documentation: [https://doc.realvirtual.io/extensions/realvirtual.io-aibuilder](https://doc.realvirtual.io/extensions/realvirtual.io-aibuilder)
 
 🔗 More info: [https://realvirtual.io/en/ai/](https://realvirtual.io/en/ai/)
 
